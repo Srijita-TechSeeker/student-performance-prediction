@@ -5,3 +5,16 @@ This project applies machine learning techniques to predict whether a student wi
 
 🔗 Click here to open the Streamlit app:  
 👉 [https://student-performance-prediction-fvpm.onrender.com](https://student-performance-prediction-fvpm.onrender.com)
+
+
+## 🔍 Model Details
+- Algorithm: Decision Tree Classifier
+- Input Features: 4 key indicators
+- Accuracy: ~71%
+- Frameworks: Scikit-learn, Streamlit
+
+- 
+## 📁 Files
+- `app.py` – Streamlit UI
+- `student_model.pkl` – Trained model
+- `requirements.txt` – Python libraries
